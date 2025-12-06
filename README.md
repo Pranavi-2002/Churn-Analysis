@@ -19,12 +19,12 @@ The aim of this project is to analyze why customers leave, their behavior patter
 ## 📸 Dashboards Preview
 
 ### Summary Dashboard  
-![Summary Dashboard](images/summary_dashboard.png)
+![Summary Dashboard](https://github.com/Pranavi-2002/Churn-Analysis/blob/a0ebb90f6674633b78f2c37a8a904cb8c715ed5c/Summary.png)
 
 ---
 
 ### Churn Prediction Dashboard  
-![Prediction Dashboard](images/churn_prediction.png)
+![Prediction Dashboard](https://github.com/Pranavi-2002/Churn-Analysis/blob/a0ebb90f6674633b78f2c37a8a904cb8c715ed5c/Prediction.png)
 
  ---
 
